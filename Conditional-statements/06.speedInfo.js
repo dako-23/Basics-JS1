@@ -14,4 +14,4 @@ if (speed <= 10) {
     console.log("extremely fast");
 }
 }
-speedInfo(["8"]);
+speedInfo(["10"]);

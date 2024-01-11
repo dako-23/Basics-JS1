@@ -2,7 +2,7 @@ function grade111 (input){
 
 let grade = Number (input[0]);
 
-if (grade > 2.00 && grade <= 2.49) {
+if (grade >= 2.00 && grade <= 2.49) {
     console.log("Poor!");
 } else if (grade > 2.49 && grade <= 3.49) {
     console.log("Average!");
@@ -14,4 +14,4 @@ if (grade > 2.00 && grade <= 2.49) {
     console.log("Excellent!");
 }
 }
-grade111 ([3.50]);
+grade111 ([2.00]);

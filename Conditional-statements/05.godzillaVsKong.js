@@ -24,4 +24,5 @@ if (finalMoviePrice <= budget){
 }
 
 }
-godzillaVsKong(["9587.88","222","55.68"]);
+godzillaVsKong(["20000","120","55.5"]);
+//godzillaVsKong(["9587.88","222","55.68"]);

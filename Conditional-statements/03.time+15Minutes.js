@@ -18,6 +18,5 @@ if (minutesPlus < 10) {
         console.log(`${hours}:${minutesPlus}`)
 }
 
-
 } 
 time15min(["1", "46"]);

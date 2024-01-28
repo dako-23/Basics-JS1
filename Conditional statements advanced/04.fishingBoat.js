@@ -19,7 +19,7 @@ function fishingBoat(input) {
         price *= 0.9;
     } else if (fisherCount >= 7 && fisherCount <= 11) {
         price *= 0.85;
-    } else {
+    } else if (fisherCount > 12) {
         price *= 0.75;
     }
 

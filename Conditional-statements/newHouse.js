@@ -1,0 +1,10 @@
+function newHouse (input){
+
+
+
+
+
+
+
+}
+newHouse

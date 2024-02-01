@@ -1,0 +1,10 @@
+function loop (input){
+
+
+
+
+
+
+
+}
+loop

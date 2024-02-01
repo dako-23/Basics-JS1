@@ -1,7 +1,7 @@
 function numbersEnding() {
 
-    for (let i = 0; i <= 1000; i++) {
-        if (i % 10 === 7) {
+    for (let i = 0; i <= 100; i++) {
+        if (i % 10 === 2) {
             console.log(i)
         }
 

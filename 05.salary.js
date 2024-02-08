@@ -1,9 +1,9 @@
 function salary(input) {
 
-    let tabsCoun = Number(input[0]);
+    let tabsCount = Number(input[0]);
     let salary = input[1];
 
-    for (let i = 2; i < input.length; i++) {
+    for (let i = 2; i < tabsCount + 2; i++) {
         let website = input[i];
         if (website === "Facebook") {
             salary -= 150;

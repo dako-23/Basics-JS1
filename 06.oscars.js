@@ -6,6 +6,7 @@ function oscars(input) {
     for (let i = 3; i < input.length; i += 2) {
         let judgeName = input[i];
         let judgePoints = Number(input[i + 1]);
+        console.log(input.length);
 
         actorPoints += judgeName.length * judgePoints / 2;
 

@@ -24,7 +24,7 @@ function histogram(input) {
         } else {
             count5++;
         }
-
+console.log(count1);
     }
     let percent1 = (count1 / numsCount) * 100;
     let percent2 = (count2 / numsCount) * 100;
@@ -32,11 +32,11 @@ function histogram(input) {
     let percent4 = (count4 / numsCount) * 100;
     let percent5 = (count5 / numsCount) * 100;
 
-    console.log(`${percent1.toFixed(2)}%`);
-    console.log(`${percent2.toFixed(2)}%`);
-    console.log(`${percent3.toFixed(2)}%`);
-    console.log(`${percent4.toFixed(2)}%`);
-    console.log(`${percent5.toFixed(2)}%`);
+    // console.log(`${percent1.toFixed(2)}%`);
+    // console.log(`${percent2.toFixed(2)}%`);
+    // console.log(`${percent3.toFixed(2)}%`);
+    // console.log(`${percent4.toFixed(2)}%`);
+    // console.log(`${percent5.toFixed(2)}%`);
 
 
 

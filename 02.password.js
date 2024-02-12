@@ -1,0 +1,12 @@
+function password(input){
+
+
+
+
+
+
+
+
+
+}
+password

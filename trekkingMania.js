@@ -34,12 +34,11 @@ function trekkingMania(input) {
     let percent4 = (group4 / totalCount) * 100;
     let percent5 = (group5 / totalCount) * 100;
 
-    console.log(percent1.toFixed(2));
-    console.log(percent2.toFixed(2));
-    console.log(percent3.toFixed(2));
-    console.log(percent4.toFixed(2));
-    console.log(percent5.toFixed(2));
-
+    console.log(`${percent1.toFixed(2)}%`);
+    console.log(`${percent2.toFixed(2)}%`);
+    console.log(`${percent3.toFixed(2)}%`);
+    console.log(`${percent4.toFixed(2)}%`);
+    console.log(`${percent5.toFixed(2)}%`);
 
 
 }
